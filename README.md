@@ -394,6 +394,8 @@ Berdasarkan hasil uji reliabilitas, diperoleh nilai Cronbach Alpha sebesar 0,909
 Hal ini berarti seluruh item pertanyaan dalam kuesioner memiliki konsistensi yang sangat baik dalam mengukur variabel penelitian. Selain itu, nilai `average_r` sebesar 0,4945 menunjukkan bahwa rata-rata hubungan antar item berada pada kategori cukup kuat. Nilai `S/N` sebesar 9,784 juga menunjukkan kualitas reliabilitas instrumen yang sangat baik.
 
 Dengan demikian, dapat disimpulkan bahwa instrumen penelitian telah memenuhi syarat reliabilitas dan layak digunakan sebagai alat pengumpulan data penelitian.
+<img width="674" height="197" alt="image" src="https://github.com/user-attachments/assets/27525fa8-cfe0-4f1f-8305-cefa45008418" />
+
 
 ---
 # Kesimpulan
