@@ -318,6 +318,8 @@ Berdasarkan hasil uji validitas, seluruh item pertanyaan memiliki nilai korelasi
 Item X7 memiliki nilai korelasi tertinggi sebesar 0,9078 yang menunjukkan bahwa item tersebut memiliki hubungan yang sangat kuat terhadap skor total. Hal ini menunjukkan bahwa item X7 sangat baik dalam merepresentasikan variabel penelitian. Sementara itu, item X2 memiliki nilai korelasi terendah sebesar 0,4966, namun masih berada dalam kategori valid karena tetap memiliki hubungan yang cukup baik terhadap skor total.
 
 Secara keseluruhan, hasil uji validitas menunjukkan bahwa seluruh butir pertanyaan dalam instrumen penelitian mampu mengukur variabel penelitian dengan baik.
+<img width="562" height="222" alt="image" src="https://github.com/user-attachments/assets/8f208e34-bb5d-4a40-9966-e4a1278f202e" />
+
 
 ---
 
