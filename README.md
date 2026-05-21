@@ -203,6 +203,8 @@ Hasil output yang diperoleh adalah:
 | Jumlah Sampel (n) | 35 |
 
 Berdasarkan hasil perhitungan menggunakan rumus Slovin, diperoleh jumlah sampel sebanyak 35 responden. Jumlah sampel tersebut dianggap telah mampu mewakili populasi penelitian sehingga dapat digunakan dalam proses pengumpulan data dan analisis penelitian.
+<img width="365" height="94" alt="image" src="https://github.com/user-attachments/assets/a70f97a5-339b-4bbe-9903-f906a5b235f0" />
+
 
 ---
 
