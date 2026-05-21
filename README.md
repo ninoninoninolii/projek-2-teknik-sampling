@@ -1,0 +1,1 @@
+# projek-2-teknik-sampling
