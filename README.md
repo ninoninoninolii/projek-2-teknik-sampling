@@ -348,6 +348,8 @@ Berdasarkan hasil tersebut, diketahui bahwa item-item dalam instrumen penelitian
 Selain itu, sebagian besar nilai probabilitas (`p-value`) berada di bawah 0,05 sehingga hubungan antar item dapat dikatakan signifikan secara statistik. Hal ini menunjukkan bahwa item-item dalam instrumen penelitian memiliki konsistensi hubungan yang baik dan saling mendukung dalam mengukur variabel penelitian.
 
 Dengan demikian, dapat disimpulkan bahwa instrumen penelitian memiliki struktur hubungan antar item yang baik sehingga mendukung kualitas instrumen penelitian secara keseluruhan.
+<img width="684" height="472" alt="image" src="https://github.com/user-attachments/assets/a2a9902f-827a-4e1b-a061-609aabfc839f" />
+
 
 ---
 
